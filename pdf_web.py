@@ -21,7 +21,7 @@ filo = open('pdf_web', 'w')
 filo.write(d1)
 
 for ss in li:
-    v1= '<p> <a href=https:// + sswww.cleancode.com/'+ ss +'<embed src= "HK382-0722.pdf" type= "application/pdf" width="100%" height="600px"</a> <p>/>'
+    v1= '<p> <a href=https:// + sswww.cleancode.com/'+ ss +'<embed src= "NIHMS256807-supplement-Supp.pdf" type= "application/pdf" width="100%" height="600px"</a>, <p>/>'
     filo.write(v1)
 
 filo.write(d2)
